@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 hello i neeed to expect in git commands 
 hey raju please concerntrate on learning
 This is my strength
+=======
+hello i neeed to expect in git commands 
+>>>>>>> parent of b806d1f (course details)
+
+
+welcome to devops
